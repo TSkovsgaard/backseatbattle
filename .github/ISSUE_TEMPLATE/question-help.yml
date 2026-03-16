@@ -1,0 +1,37 @@
+name: Question / help
+description: Ask a question about gameplay, setup, or app behavior.
+title: "[Question] "
+labels:
+  - question
+body:
+  - type: dropdown
+    id: language
+    attributes:
+      label: Preferred language
+      description: Choose the language you want us to reply in.
+      options:
+        - English
+        - Danish
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: What do you need help with?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Add app version, device, and anything relevant.
+    validations:
+      required: false
+  - type: textarea
+    id: expected
+    attributes:
+      label: What answer are you looking for?
+      description: Optional, but helps us answer faster.
+    validations:
+      required: false

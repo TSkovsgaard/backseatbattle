@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Backseat Battle Support (English)
+    url: https://tskovsgaard.github.io/backseatbattle/en/support/
+    about: Start here for support and bug reporting.
+  - name: Backseat Battle Support (Dansk)
+    url: https://tskovsgaard.github.io/backseatbattle/da/support/
+    about: Start her for support og fejlafrapportering.
+  - name: Privacy Policy
+    url: https://tskovsgaard.github.io/backseatbattle/en/privacy/
+    about: Read the app privacy policy.

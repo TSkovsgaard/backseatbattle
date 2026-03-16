@@ -1,2 +1,21 @@
-# backseatbattle
-Backseat Battle brings quick local multiplayer games for passengers. Create a lobby, connect with nearby friends, and play Tic-Tac-Toe, Connect Four, and Hangman in seconds. No accounts, no internet required, just instant party fun for road trips and short breaks.
+# Backseat Battle Public Site
+
+Static public pages for App Store Connect metadata links:
+
+- English privacy: `https://tskovsgaard.github.io/backseatbattle/en/privacy/`
+- Danish privacy: `https://tskovsgaard.github.io/backseatbattle/da/privacy/`
+- English support: `https://tskovsgaard.github.io/backseatbattle/en/support/`
+- Danish support: `https://tskovsgaard.github.io/backseatbattle/da/support/`
+
+## Repository scope
+
+- Public privacy and support pages (`en` + `da`)
+- GitHub Issue Forms for support intake
+
+## GitHub Pages target
+
+- Branch: `main`
+- Folder: `/(root)`
+
+If Pages has not already been enabled, configure it in:
+`Repository Settings -> Pages -> Build and deployment -> Deploy from a branch -> main / (root)`.
