@@ -11,11 +11,3 @@ Static public pages for App Store Connect metadata links:
 
 - Public privacy and support pages (`en` + `da`)
 - GitHub Issue Forms for support intake
-
-## GitHub Pages target
-
-- Branch: `main`
-- Folder: `/(root)`
-
-If Pages has not already been enabled, configure it in:
-`Repository Settings -> Pages -> Build and deployment -> Deploy from a branch -> main / (root)`.
